@@ -1,8 +1,7 @@
-
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/maxdaniels71/max-ai-updates/releases/download/v1.1.0/MAX_AI.exe",
-  "sha256": "sha256:1fef6ca87a76ad9f498277171e23ee887a6f9f7b3ac67078beda26bba2191966",
-  "notes": "MAX AI Christmas update and automatic updater"
+  "version": "1.1.4",
+  "url": "https://github.com/maxdaniels71/max-ai-updates/releases/download/v1.1.4/MAX_AI.exe",
+  "download_url": "https://github.com/maxdaniels71/max-ai-updates/releases/download/v1.1.4/MAX_AI.exe",
+  "sha256": "7b65fe1fa84204402c73f6b969f47776dd62346c496cc43106285377446e6132",
+  "notes": "Improved answer box detection and new MAX AI icon"
 }
-  
